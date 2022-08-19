@@ -1,0 +1,79 @@
+.zoom-hover:hover img {
+    transform: scale(1.1);
+}
+
+.icon-haratres {
+    width: 30px;
+    height: 30px;
+    display: block;
+}
+
+
+/* boş */
+
+.bold {
+    font-weight: bold !important;
+}
+
+.about-sec-prg {
+    line-height: 29px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    font-size: 18px;
+}
+
+.f-left {
+    float: left;
+}
+
+.color-white {
+    color: #ffffff;
+}
+
+.color-lacivert {
+    color: #001036 !important;
+}
+
+.color-orange {
+    color: #ff5800;
+}
+
+.anasayfa-icons {
+    width: 55px;
+    height: 55px;
+    display: block;
+}
+
+.confusion {
+    margin-top: 16%;
+    margin-bottom: 16%;
+    left: 50%;
+    position: relative;
+}
+
+.confusion-gif {
+    position: absolute;
+    margin-top: 8%;
+}
+
+.blending {
+    margin-top: 15%;
+}
+
+.scroll-down-title {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.scroll-down-title a {
+    font-size: 20px;
+    color: #001036;
+    position: relative;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.scroll-down-title a:hover {
+    color: #ff5800;
+    left: 10px;
+    transition: 0.5s;
+}
